@@ -1,4 +1,4 @@
 Materials/
-.ipynb_checkpoints/
-*.sqlite
+Tasks/**/.ipynb_checkpoints/
+*.sqlite3
 
